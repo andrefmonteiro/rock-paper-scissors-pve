@@ -35,27 +35,11 @@ A Player vs Environment (PvE) implementation of the classic Rock Paper Scissors 
 
 ## How to Play
 1. Clone or download the repository.
-2. Run the game application.
+2. Run the Main file.
 3. Follow on-screen instructions to make your move (Rock, Paper, or Scissors).
 4. The computer will randomly generate its move.
 5. Results are displayed for each round.
 6. The first to win 3 rounds wins the game.
 
-## Getting Started
-- **Prerequisites:** Mention any software dependencies or installations required to run the game.
-- **Installation:** Instructions for setting up and running the game.
-
-## Usage Examples
-Include code snippets, screenshots, or animated GIFs showcasing how to play or interact with the game.
-
 ## Contributors
-- List contributors or acknowledge any external resources used in the project.
-
-## Roadmap
-Future updates or planned features for the game.
-
-## License
-Specify the project's license (if applicable).
-
-## Support or Contact
-Provide information on how users can reach out for support, report issues, or contribute to the project.
+- Andrê Monteiro

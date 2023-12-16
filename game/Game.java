@@ -1,4 +1,5 @@
-package rock_paper_scissors;
+package rock_paper_scissors.game;
+import rock_paper_scissors.AsciiArt;
 import rock_paper_scissors.player.BotPlayer;
 import rock_paper_scissors.player.UserPlayer;
 public class Game {

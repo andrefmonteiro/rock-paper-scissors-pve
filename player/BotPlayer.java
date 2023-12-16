@@ -1,5 +1,5 @@
 package rock_paper_scissors.player;
-import rock_paper_scissors.RPS;
+import rock_paper_scissors.game.RPS;
 import java.util.Random;
 
 public class BotPlayer extends Player{

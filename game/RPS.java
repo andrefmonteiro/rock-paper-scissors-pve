@@ -1,4 +1,4 @@
-package rock_paper_scissors;
+package rock_paper_scissors.game;
 
 public enum RPS {
     ROCK("Rock"),

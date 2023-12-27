@@ -42,4 +42,4 @@ A Player vs Environment (PvE) implementation of the classic Rock Paper Scissors 
 6. The first to win 3 rounds wins the game.
 
 ## Contributors
-- Andrê Monteiro
+- André Monteiro
